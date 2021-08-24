@@ -1,4 +1,7 @@
 # devops-netology
+
+# one line
+
 # Local .terraform directories
 **/.terraform/* - исключить все файлы, находящиеся в любой поддиректории с именем .terraform
 
